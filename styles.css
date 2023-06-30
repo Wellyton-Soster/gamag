@@ -10,9 +10,8 @@
     background-image: url(./assets/quadro-com-vetor-de-caes.avif);
     background-size: cover;
     position: fixed;
-    opacity: 0.3;
+    opacity: 0.2;
 }
-
 
 header {
     display: block;
@@ -22,7 +21,9 @@ header {
     left: 10px;
 
 }
-
+li {
+    display: inline;
+}
 .link-header {
     color: rgb(49, 35, 35);
     font-size: 47px;
@@ -35,7 +36,7 @@ header {
     width: 200px;
     height: 50px;
     color: white;
-    background-color: rgb(48, 51, 42);
+    background-color: rgb(17, 59, 246);
     position: fixed;
     top: 0;
     right: 0;
