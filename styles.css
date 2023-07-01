@@ -9,6 +9,8 @@
     height: 100%;
     background-image: url(./assets/quadro-com-vetor-de-caes.avif);
     background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
     position: fixed;
     opacity: 0.2;
 }
