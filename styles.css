@@ -51,6 +51,8 @@ li {
     display: inline-block;
     height: 50%;
     padding: auto;
+    margin-top: 300px;
+    margin-left: 150px;
 }
 
 .txt-left {
@@ -68,7 +70,7 @@ li {
     display: inline-block;
     height: 50%;
     font-size: 50px;
-    margin-left: 50px;
+    margin-left: 100px;
 
 }
 
