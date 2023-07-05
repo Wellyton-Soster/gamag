@@ -1,0 +1,4 @@
+function cliqueiNoBotao(){
+    alert("Botao")
+   
+}
